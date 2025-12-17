@@ -36,6 +36,15 @@ I sharpen my problem-solving skills daily across these platforms:
 
 ### 📈 Activity & Stats
 
+<div align="center">
+
+### 📊 DATA OVERRIDE (System Metrics)
+
+| **Contribution Streak** | **GitHub Statistics** |
+| :---: | :---: |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=Asmit-64bit&theme=tokyonight&hide_border=true) | ![Asmit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&theme=tokyonight&hide_border=true) |
+
+</div>
 ![Asmit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-64bit&layout=compact&theme=tokyonight)
