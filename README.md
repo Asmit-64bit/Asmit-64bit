@@ -4,8 +4,8 @@
 ---
 
 ### 🚀 Frontend Developer & Problem Solver
-I design the Webpages like Graffiti Art. With a foundation in **C++** and **Python**, and a specialized focus on the **React/Node.js** ecosystem, I build software that is both user-friendly and performant.
-
+ I love designing webpages with my creativity. With knowledge of **C++** , I'm building a strong foundation in **CP** and **DSA**. Currently I'm 2 star at CodeChef and solved 80+ questions on LeetCode.
+ 
 - 🔭 I’m currently working on **Mastering React.js**
 - 🧠 I’m currently learning **Backend Development & System Design**
 - 💬 Ask me about **React optimization, Web Designing, or C++ logic**
