@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asmit Samanta
 
-### 🚀 Full-Stack Developer & Problem Solver
+### 🚀 Frontend Developer & Problem Solver
 I bridge the gap between high-level web applications and low-level system efficiency. With a foundation in **C++** and **Python**, and a specialized focus on the **React/Node.js** ecosystem, I build software that is both user-friendly and performant.
 
 - 🔭 I’m currently working on **My React.js Skills**
