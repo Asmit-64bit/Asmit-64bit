@@ -28,7 +28,7 @@ I bridge the gap between high-level web applications and low-level system effici
 
 ### 📊 GitHub Activity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&theme=tokyonight)
 
 ---
 
