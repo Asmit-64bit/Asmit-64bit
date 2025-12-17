@@ -16,10 +16,12 @@ I bridge the gap between high-level web applications and low-level system effici
 With a foundation in **C++** and **Python**, and a specialized focus on the **React/Node.js** ecosystem, 
 I build software that is both user-friendly and performant.
 
-- 📟 **CURRENT_TASK:** Mastering React.js
-- 💾 **UPGRADING:** Backend Development & System Design
-- 📡 **FREQ_ASKED:** React optimization, Web Designing, or C++ logic
-- 🧩 **GLITCH:** I spend as much time naming variables as I do writing the code.
+<p align="center">
+  📟 <b>CURRENT_TASK:</b> Mastering React.js <br/>
+  💾 <b>UPGRADING:</b> Backend Development & System Design <br/>
+  📡 <b>FREQ_ASKED:</b> React optimization, Web Designing, or C++ logic <br/>
+  🧩 <b>GLITCH:</b> I spend as much time naming variables as I do writing the code.
+</p>
 
 ---
 
@@ -31,9 +33,11 @@ I build software that is both user-friendly and performant.
 
 ### 🏆 COMBAT RECORD (CP/DSA)
 
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="25" /> **LEETCODE** | <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" width="25" /> **CODECHEF** | <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="25" /> **CODEFORCES** |
-| :---: | :---: | :---: |
-| [NODE::Asmit_S](https://leetcode.com/Asmit_S) | [USER::asmit_xo7](https://www.codechef.com/users/asmit_xo7) | [CMD::Asmit_s07](https://codeforces.com/profile/Asmit_s07) |
+| Platform | Profile Link |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20" /> **LeetCode** | [NODE::Asmit_S](https://leetcode.com/Asmit_S) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" width="20" /> **CodeChef** | [USER::asmit_xo7](https://www.codechef.com/users/asmit_xo7) |
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="20" /> **Codeforces** | [CMD::Asmit_s07](https://codeforces.com/profile/Asmit_s07) |
 
 ---
 
@@ -52,22 +56,4 @@ I build software that is both user-friendly and performant.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Asmit-64bit&theme=blood-next&border_radius=0&border_color=00F3FF)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-64bit&layout=compact&theme=blood-next&border_radius=0&border_color=00F3FF" width="100%" />
-
----
-
-### 📟 UPLINK
-
-<a href="https://www.linkedin.com/in/asmit-samanta/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-00F3FF?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-&nbsp;
-<a href="mailto:asmit9324@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-FF003F?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br />
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/snake.gif" width="100%" style="filter: hue-rotate(300deg) brightness(1.5);" />
-
-</div>
+<img src="
