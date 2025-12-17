@@ -18,6 +18,10 @@ I bridge the gap between high-level web applications and low-level system effici
 
 ---
 
+### 🏆 Competitive Programming & DSA
+
+
+
 I sharpen my problem-solving skills daily across these platforms:
 
 
