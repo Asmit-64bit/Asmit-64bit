@@ -3,8 +3,8 @@
 ### 🚀 Frontend Developer & Problem Solver
 I bridge the gap between high-level web applications and low-level system efficiency. With a foundation in **C++** and **Python**, and a specialized focus on the **React/Node.js** ecosystem, I build software that is both user-friendly and performant.
 
-- 🔭 I’m currently working on **My React.js Skills**
-- 🧠 I’m currently learning **Backend Development**
+- 🔭 I’m currently working on **Mastering React.js**
+- 🧠 I’m currently learning **Backend Development & System Design**
 - 💬 Ask me about **React optimization, Web Designing, or C++ logic**
 - ⚡ Fun fact: **I spend as much time naming variables as I do writing the code.**
 
@@ -12,51 +12,51 @@ I bridge the gap between high-level web applications and low-level system effici
 
 ### 🛠 My Tech Stack
 
-#### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### ⚙️ Backend & Systems
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,cpp" alt="My Tech Stack" />
+</p>
 
 ---
 
-### 📊 GitHub Activity
+### 🏆 Competitive Programming
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&theme=tokyonight)
-
----
-### 🏆 Competitive Programming & DSA
-
-I sharpen my problem-solving skills daily across these platforms:
-
-| **Platform** | **Profile Link** | **Status Badge** |
-| :--- | :--- | :--- |
-| **LeetCode** | [View Profile](https://leetcode.com/Asmit_S) | ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black) |
-| **CodeChef** | [View Profile](https://www.codechef.com/users/asmit_xo7) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white) |
-| **Codeforces** | [View Profile](https://codeforces.com/profile/Asmit_s07) | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white) |
+<p align="left">
+  <a href="https://leetcode.com/Asmit_S" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Asmit_s07" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://codechef.com/users/asmit_xo7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="CodeChef" width="40" height="40" />
+  </a>
+</p>
 
 ---
 
 ### 📊 Live Stats
 
-#### 🟡 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Asmit_S?theme=dark&font=Ubuntu)
+| **LeetCode Performance** | **Codeforces Rating** |
+| :--- | :--- |
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/Asmit_S?theme=dark&font=Ubuntu) | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Asmit_s07&theme=tokyonight) |
 
-#### 🔵 Codeforces Stats
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Asmit_s07&theme=radical)
+---
 
-#### 🔴 CodeChef Level
-![CodeChef Profile](https://img.shields.io/badge/CodeChef-Check%20Rating-5B4638?style=for-the-badge&logo=codechef)
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&theme=tokyonight" alt="Asmit's GitHub Stats" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmit-samanta/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmit9324@gmail.com)
-<!--[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)*/-->
+
+<p align="left">
+<a href="https://www.linkedin.com/in/asmit-samanta/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
+<a href="mailto:asmit9324@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
+</p>
+
+---
