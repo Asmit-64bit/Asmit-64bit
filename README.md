@@ -14,7 +14,13 @@ I bridge the gap between high-level web applications and low-level system effici
 ### 🛠 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,py,cpp,pandas,numpy,matplotlib,sklearn&theme=dark" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,py,cpp&theme=dark" />
+  <br>
+  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-%23444e91.svg?style=for-the-badge&logo=Seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 ---
 
