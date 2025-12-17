@@ -13,10 +13,9 @@ I bridge the gap between high-level web applications and low-level system effici
 
 ### 🛠 My Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,cpp" alt="My Tech Stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,py,cpp,pandas,numpy,matplotlib,sklearn&theme=dark" alt="My Tech Stack" />
 </p>
-
 ---
 
 ### 🏆 Competitive Programming & DSA
