@@ -18,29 +18,39 @@ I bridge the gap between high-level web applications and low-level system effici
 
 ---
 
-### 🏆 Competitive Programming
+I sharpen my problem-solving skills daily across these platforms:
 
-<p align="left">
-  <a href="https://leetcode.com/Asmit_S" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/Asmit_s07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://codechef.com/users/asmit_xo7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="CodeChef" width="40" height="40" />
-  </a>
-</p>
+
+
+| **Platform** | **Profile Link** | **Status Badge** |
+
+| :--- | :--- | :--- |
+
+| **LeetCode** | [View Profile](https://leetcode.com/Asmit_S) | ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black) |
+
+| **CodeChef** | [View Profile](https://www.codechef.com/users/asmit_xo7) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white) |
+
+| **Codeforces** | [View Profile](https://codeforces.com/profile/Asmit_s07) | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white) |
+
+
 
 ---
 
+
+
 ### 📊 Live Stats
 
-| **LeetCode Performance** | **Codeforces Rating** |
-| :--- | :--- |
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/Asmit_S?theme=dark&font=Ubuntu) | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Asmit_s07&theme=tokyonight) |
+
+
+#### 🟡 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Asmit_S?theme=dark&font=Ubuntu)
+
+
+
+#### 🔵 Codeforces Stats
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Asmit_s07&theme=radical)
 
 ---
 
