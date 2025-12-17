@@ -34,5 +34,7 @@ I bridge the gap between high-level web applications and low-level system effici
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmit-samanta/)
-<!--[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)*/-->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmit9324@gmail.com)
+LeetCode Stats	Codeforces Stats
+<img src="https://leetcode-stats-six.vercel.app/?username=[YourUsername]&theme=dark" alt="LeetCode Stats" />	<img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight" alt="Codeforces Stats Placeholder" />
+<!--[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)*/-->
