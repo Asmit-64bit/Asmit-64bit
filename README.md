@@ -4,12 +4,7 @@
 ---
 
 ### 🚀 Frontend Developer & Problem Solver
- I love designing webpages with my creativity, thus improving myself everyday by learning new world skills.<br> With knowledge of **C++** , I'm building a strong foundation in **CP** and **DSA**. <br>Currently I'm 2 star at CodeChef and solved 80+ questions on LeetCode.
- 
-- 🔭 I’m currently working on **Mastering React.js**
-- 🧠 I’m currently learning **Backend Development & System Design**
-- 💬 Ask me about **React optimization, Web Designing, or C++ logic**
-- ⚡ Fun fact: **I spend as much time naming variables as I do writing the code.**
+ I love designing webpages with my creativity, thus improving myself everyday by learning new world skills.<br>With knowledge of **C++**, I'm building a strong foundation in **CP** and **DSA**.<br>Currently I'm 2 star at CodeChef and solved 80+ questions on LeetCode.
 
 ---
 
