@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F3FF&center=true&vCenter=true&width=500&lines=HI,+I'M+ASMIT+SAMANTA.;CRACKING+C%2B%2B+ALGORITHMS;DECODING+BACKEND+LOGIC;OPTIMIZING+USER+EXPERIENCE" alt="Cyber Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=COMIC_SANS&weight=600&size=24&pause=1000&color=00F3FF&center=true&vCenter=true&width=500&lines=HEY+THERE!;I'M+ASMIT+SAMANTA.;CRACKING+C%2B%2B+ALGORITHMS;DECODING+BACKEND+LOGIC;OPTIMIZING+USER+EXPERIENCE" alt="Cyber Typing" />
 
 ### 🚀 Frontend Developer & Problem Solver
 I bridge the gap between high-level web applications and low-level system efficiency. With a foundation in **C++** and **Python**, and a specialized focus on the **React/Node.js** ecosystem, I build software that is both user-friendly and performant.
