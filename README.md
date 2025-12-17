@@ -34,24 +34,6 @@ I sharpen my problem-solving skills daily across these platforms:
 
 ---
 
-
-
-### 📊 Live Stats
-
-
-
-#### 🟡 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Asmit_S?theme=dark&font=Ubuntu)
-
-
-
-#### 🔵 Codeforces Stats
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Asmit_s07&theme=radical)
-
----
-
 ### 📈 Activity & Stats
 
 ![Asmit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&theme=tokyonight)
