@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=700&size=35&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&height=100&lines=HEY+THERE!;I'M+ASMIT+SAMANTA.;CRACKING+C%2B%2B+ALGORITHMS;DECODING+BACKEND+LOGIC;OPTIMIZING+USER+EXPERIENCE" alt="Cyber Typing" />
 
+---
+
 ### 🚀 Frontend Developer & Problem Solver
 I design the Webpages like Graffiti Art. With a foundation in **C++** and **Python**, and a specialized focus on the **React/Node.js** ecosystem, I build software that is both user-friendly and performant.
 
