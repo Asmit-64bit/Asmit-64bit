@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=700&size=35&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&height=100&lines=HEY+THERE!;I'M+ASMIT+SAMANTA.;CRACKING+C%2B%2B+ALGORITHMS;DECODING+BACKEND+LOGIC;OPTIMIZING+USER+EXPERIENCE" alt="Cyber Typing" />
 
 ### 🚀 Frontend Developer & Problem Solver
-I bridge the gap between high-level web applications and low-level system efficiency. With a foundation in **C++** and **Python**, and a specialized focus on the **React/Node.js** ecosystem, I build software that is both user-friendly and performant.
+I design the Webpages like Graffiti Art. With a foundation in **C++** and **Python**, and a specialized focus on the **React/Node.js** ecosystem, I build software that is both user-friendly and performant.
 
 - 🔭 I’m currently working on **Mastering React.js**
 - 🧠 I’m currently learning **Backend Development & System Design**
@@ -14,7 +14,7 @@ I bridge the gap between high-level web applications and low-level system effici
 ### 🛠 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,py,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,py,cpp,c,github,figma&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
