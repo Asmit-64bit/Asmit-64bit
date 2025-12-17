@@ -56,4 +56,22 @@ I build software that is both user-friendly and performant.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Asmit-64bit&theme=blood-next&border_radius=0&border_color=00F3FF)
 
-<img src="
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-64bit&layout=compact&theme=blood-next&border_radius=0&border_color=00F3FF" width="100%" />
+
+---
+
+### 📟 UPLINK
+
+<a href="https://www.linkedin.com/in/asmit-samanta/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-00F3FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+<a href="mailto:asmit9324@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-FF003F?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/snake.gif" width="100%" style="filter: hue-rotate(300deg) brightness(1.5);" />
+
+</div>
