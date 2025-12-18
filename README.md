@@ -46,7 +46,7 @@ I sharpen my problem-solving skills daily across these platforms:
 
 ### 📫 Let's Connect
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/asmit-samanta/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
 <a href="mailto:asmit9324@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
 </p>
