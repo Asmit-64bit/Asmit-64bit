@@ -38,7 +38,7 @@ I sharpen my problem-solving skills daily across these platforms:
 
 ![Asmit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Asmit-64bit&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Asmit-64bit&theme=tokyonight" alt="GitHub Streak" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-64bit&layout=compact&theme=tokyonight)
 
