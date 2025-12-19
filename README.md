@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠 My Tech Stack
+### 🛠 Tools and Technologies I use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,cpp,c,py,java,github,vscode,figma&theme=dark" />
