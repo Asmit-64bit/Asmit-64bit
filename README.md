@@ -11,7 +11,7 @@
 ### 🛠 Tools and Technologies I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,cpp,c,py,java,kotlin,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,cpp,c,py,java,kotlin,git,github,vscode,androidstudio,figma&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
