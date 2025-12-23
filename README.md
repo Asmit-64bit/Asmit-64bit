@@ -52,4 +52,8 @@ I sharpen my problem-solving skills daily across these platforms:
 </p>
 
 ---
+
+⭐ *Always learning. Always building. Always improving.*
+
+---
 </div>
