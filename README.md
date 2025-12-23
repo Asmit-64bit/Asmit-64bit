@@ -42,6 +42,8 @@ I sharpen my problem-solving skills daily across these platforms:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-64bit&layout=compact&theme=tokyonight)
 
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Asmit-64bit&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
+
 ---
 
 ### 📫 Let's Connect
