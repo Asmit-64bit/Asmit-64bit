@@ -38,7 +38,7 @@ I sharpen my problem-solving skills daily across these platforms:
 
 ![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Asmit-64bit&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-64bit&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Asmit-64bit&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ---
 
