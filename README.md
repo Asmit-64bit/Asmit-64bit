@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 Frontend Developer & Problem Solver
- I love designing webpages with my creativity, thus improving myself everyday by learning new world skills.<br>With knowledge of **C++**, I'm building a strong foundation in **CP** and **DSA**.<br>Currently I'm 2 star at CodeChef and solved 90+ questions on LeetCode.<br>
+ I love designing webpages with my creativity, thus improving myself everyday by learning new world skills.<br>With knowledge of **C++**, I'm building a strong foundation in **CP** and **DSA**.<br>Currently I'm 2 star at CodeChef and solved 130+ questions on LeetCode.<br>
 Portfolio: <a href="https://asmit-samanta.vercel.app/">https://asmit-samanta.vercel.app/</a>
 
 ---
