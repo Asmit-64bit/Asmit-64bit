@@ -12,7 +12,9 @@ Portfolio: <a href="https://asmit-samanta.vercel.app/">https://asmit-samanta.ver
 ### 🛠 Tools and Technologies I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nodejs,mongodb,cpp,c,py,java,kotlin,git,github,vscode,androidstudio,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nodejs,mongodb,cpp,c,py,java,kotlin&theme=dark" />
+ <br>
+ <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
