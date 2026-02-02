@@ -11,16 +11,35 @@ Portfolio: <a href="https://asmit-samanta.vercel.app/">https://asmit-samanta.ver
 
 ### 🛠 Tools and Technologies I use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nodejs,mongodb,cpp,c,py,java,kotlin&theme=dark" />
- <br>
- <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&theme=dark" />
+<div align="center">
+  
+  <h3>Web Dev</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nodejs,mongodb&theme=dark" />
+  
+  <h3>Competitive Programming</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java&theme=dark" />
+  
+  <h3>Data Science & AI/ML</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+
+  <h3>Android Dev</h3>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
+  
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+
+</div>
   <br>
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-%23444e91.svg?style=for-the-badge&logo=Seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
