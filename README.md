@@ -3,8 +3,11 @@
 
 ---
 
-### 🚀 Frontend Developer & Problem Solver
- I love designing webpages with my creativity, thus improving myself everyday by learning new world skills.<br>With knowledge of **C++**, I'm building a strong foundation in **CP** and **DSA**.<br>Currently I'm 2 star at CodeChef, pupil @ codeforces and solved 150+ questions on LeetCode.<br>
+Front-end developer & Problem Solver
+Currently learning Quantum Computing and AI fundamentals
+Winner – GDG TechSprint 2026
+Open to opportunities where I can learn, build, and contribute to real-world projects
+Actively participating in hackathons and coding contests
 Portfolio: <a href="https://asmit-samanta.vercel.app/">https://asmit-samanta.vercel.app/</a>
 
 ---
