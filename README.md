@@ -16,10 +16,10 @@
 
 Frontend developer who enjoys cracking algorithms as much as building UIs. Currently exploring Quantum Computing and AI fundamentals. Winner of **GDG TechSprint 2026**. Always up for a hackathon or an interesting engineering challenge.
 
-- 🔧 Building with React, Node.js, and C++ daily
-- 📡 Learning Quantum Computing & AI fundamentals
-- 🏆 Active on LeetCode, Codeforces, and CodeChef
-- 🤝 Open to collabs, open source, and real-world projects
+- Building with React, Node.js, and C++ daily
+- Learning Quantum Computing & AI fundamentals
+- Active on LeetCode, Codeforces, and CodeChef
+- Open to collabs, open source, and real-world projects
 
 ---
 
