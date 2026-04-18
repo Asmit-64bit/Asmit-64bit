@@ -28,14 +28,11 @@
 
 
 ## 💡 Featured Projects
-- **Project Alpha** – A placeholder project showcasing frontend development skills ([Live](#))
-  React-based UI, REST API integration, responsive design
+- **Basic ChatBot** – A conversational chatbot built with React and Vite ([Live](https://basic-chat-bot-nine.vercel.app) | [Repo](https://github.com/Asmit-64bit/Basic-ChatBot))<br>
+  React frontend, component-based architecture, responsive chat UI
 
-- **Project Beta** – A placeholder algorithmic project ([Live](#))
-  C++ core logic, optimized data structures, competitive programming inspired
-
-- **Project Gamma** – A placeholder full-stack application ([Live](#))
-  Node.js backend, MongoDB database, clean and minimal UI
+- **Pokédex** – A Pokémon explorer app powered by the PokéAPI ([Live](https://pokedex-jet-pi.vercel.app) | [Repo](https://github.com/Asmit-64bit/Pokedex))<br>
+  React + Vite, custom hooks, dynamic data fetching and search
 
 
 ## 🛠 Tech Stack
@@ -70,3 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-64bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=c9d1d9" />
 </p>
+
+---
+
+*Always learning. Always building. Always improving.*
