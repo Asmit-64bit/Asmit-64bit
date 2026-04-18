@@ -2,12 +2,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=700&size=35&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&height=100&lines=HEY+THERE!;I'M+ASMIT+SAMANTA.;CRACKING+C%2B%2B+ALGORITHMS;DECODING+BACKEND+LOGIC;OPTIMIZING+USER+EXPERIENCE" alt="Cyber Typing" />
 
 ---
-
-Front-end developer & Problem Solver<br>
-Currently learning Quantum Computing and AI fundamentals<br>
-Winner – GDG TechSprint 2026<br>
-Open to opportunities where I can learn, build, and contribute to real-world projects<br>
-Actively participating in hackathons and coding contests<br>
+<ul>
+<li>Front-end developer & Problem Solver</li><br>
+<li>Currently learning Quantum Computing and AI fundamentals</li><br>
+<li>Winner – GDG TechSprint 2026</li><br>
+<li>Open to opportunities where I can learn, build, and contribute to real-world projects</li><br>
+<li>Actively participating in hackathons and coding contests</li></ul><br>
 Portfolio: <a href="https://asmit-samanta.vercel.app/">https://asmit-samanta.vercel.app/</a>
 
 ---
