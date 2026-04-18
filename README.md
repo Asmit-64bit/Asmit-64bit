@@ -23,16 +23,21 @@ Frontend developer who enjoys cracking algorithms as much as building UIs. Curre
 
 ---
 
+## 🎓 Education
+- **B.Tech Computer Engineering** – KJSCE, Mumbai (CGPA: 9.59)
+
+---
+
 ## Stack
 
 **Web**
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Node.js` `MongoDB` `Bootstrap`
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Node.js` `MongoDB` `Bootstrap` `Solidity`
 
 **Competitive Programming**
 `C++` `C` `Java`
 
 **Data Science & AI/ML**
-`Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Jupyter`
+`Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Jupyter` `Qiskit`
 
 **Android**
 `Kotlin` `Android Studio`
