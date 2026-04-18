@@ -67,6 +67,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-64bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=c9d1d9" />
 </p>
