@@ -3,11 +3,11 @@
 
 ---
 
-Front-end developer & Problem Solver
-Currently learning Quantum Computing and AI fundamentals
-Winner – GDG TechSprint 2026
-Open to opportunities where I can learn, build, and contribute to real-world projects
-Actively participating in hackathons and coding contests
+Front-end developer & Problem Solver<br>
+Currently learning Quantum Computing and AI fundamentals<br>
+Winner – GDG TechSprint 2026<br>
+Open to opportunities where I can learn, build, and contribute to real-world projects<br>
+Actively participating in hackathons and coding contests<br>
 Portfolio: <a href="https://asmit-samanta.vercel.app/">https://asmit-samanta.vercel.app/</a>
 
 ---
