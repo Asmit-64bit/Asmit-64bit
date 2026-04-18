@@ -1,53 +1,61 @@
-<div align="center">
+<h1 align="center">Asmit Samanta</h1>
+<h3 align="center">GDG TechSprint 2026 Winner | Frontend Developer & Problem Solver | Avid Learner</h3>
 
-# Asmit Samanta
+<p align="center">
+  <a href="https://asmit-samanta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/asmit-samanta/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:asmit9324@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Asmit-64bit&label=Views&color=1adeff&style=for-the-badge" />
+</p>
 
-**Frontend Developer · Competitive Programmer · Lifelong Learner**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-asmit--samanta.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://asmit-samanta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asmit%20Samanta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmit-samanta/)
-[![Gmail](https://img.shields.io/badge/Gmail-asmit9324@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asmit9324@gmail.com)
+## 👤 About Me
+- **Frontend developer** working with **React**, **Node.js**, and **MongoDB**
+- Currently learning **Quantum Computing** and **AI fundamentals**
+- **Winner – GDG TechSprint 2026**
+- **Open to opportunities** where I can learn, build, and contribute to real-world projects
+- Actively participating in hackathons and coding contests
 
-</div>
-
----
-
-## About
-
-Frontend developer who enjoys cracking algorithms as much as building UIs. Currently exploring Quantum Computing and AI fundamentals. Winner of **GDG TechSprint 2026**. Always up for a hackathon or an interesting engineering challenge.
-
-- Building with React, Node.js, and C++ daily
-- Learning Quantum Computing & AI fundamentals
-- Active on LeetCode, Codeforces, and CodeChef
-- Open to collabs, open source, and real-world projects
-
----
 
 ## 🎓 Education
-- **B.Tech Computer Engineering** – KJSCE, Mumbai (CGPA: 9.59)
+- **B.Tech Computer Engineering** – KJSSE, Mumbai (SGPA: 9.59)
 
----
 
-## Stack
+## 💡 Featured Projects
+- **Project Alpha** – A placeholder project showcasing frontend development skills ([Live](#))
+  React-based UI, REST API integration, responsive design
 
-**Web**
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Node.js` `MongoDB` `Bootstrap` `Solidity`
+- **Project Beta** – A placeholder algorithmic project ([Live](#))
+  C++ core logic, optimized data structures, competitive programming inspired
 
-**Competitive Programming**
-`C++` `C` `Java`
+- **Project Gamma** – A placeholder full-stack application ([Live](#))
+  Node.js backend, MongoDB database, clean and minimal UI
 
-**Data Science & AI/ML**
-`Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Jupyter` `Qiskit`
 
-**Android**
-`Kotlin` `Android Studio`
+## 🛠 Tech Stack
 
-**Tools**
-`Git` `GitHub` `VS Code` `Figma`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&color=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&color=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&color=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&color=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&color=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&color=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&color=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&color=black)
 
----
 
-## Competitive Programming
+## 🏆 Competitive Programming
 
 | Platform | Profile |
 | :--- | :--- |
@@ -55,13 +63,10 @@ Frontend developer who enjoys cracking algorithms as much as building UIs. Curre
 | CodeChef | [asmit_xo7](https://www.codechef.com/users/asmit_xo7) |
 | Codeforces | [Asmit_s07](https://codeforces.com/profile/Asmit_s07) |
 
----
 
-## GitHub Stats
+## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asmit-64bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=c9d1d9" />
-
----
-
-*Always learning. Always building. Always improving.*
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-64bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=c9d1d9" />
+</p>
