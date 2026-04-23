@@ -24,7 +24,7 @@
 
 I’m a B.Tech Computer Engineering student at KJSSE, Mumbai (SGPA: 9.59), focused on building real-world full-stack applications.
 
-I enjoy turning ideas into usable products—not just projects that sit on GitHub. Currently working with React, Node.js, and MongoDB, while exploring AI and Quantum Computing fundamentals.
+I enjoy turning ideas into usable products, not just projects that sit on GitHub. Currently working with React, Node.js, and MongoDB, while exploring AI and Quantum Computing fundamentals.
 
 🏆 **GDG KJSSE TechSprint 2026 Winner**  
 🚀 Hackathon enthusiast  
