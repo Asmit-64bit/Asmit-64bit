@@ -34,7 +34,6 @@ I enjoy turning ideas into usable products, not just projects that sit on GitHub
 
 ## ⚡ Currently
 
-- Building **Studionex** – a smart study + productivity system  
 - Practicing problem solving (LeetCode / Codeforces)  
 - Exploring AI + Quantum Computing  
 
