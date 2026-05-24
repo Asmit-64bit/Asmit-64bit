@@ -78,6 +78,8 @@ I enjoy turning ideas into usable products, not just projects that sit on GitHub
 
 <div align="center">
 
+ <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asmit-64bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9" />
+ 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Asmit-64bit&theme=tokyonight&hide_border=true" />
 
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asmit-64bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=c9d1d9" />
