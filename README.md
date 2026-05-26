@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated header SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=900&color=22C55E&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Asmit+Samanta+%F0%9F%91%8B;Frontend+Developer+%E2%80%A2+Problem+Solver;Turning+imagination+into+platform+%E2%9A%A1;GDG+KJSSE+TechSprint+2026+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=900&color=22C55E&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Asmit+Samanta+%F0%9F%91%8B;Full+Stack+Developer+%2B+Problem+Solver;AI/ML+and+Quantum+Explorer+%E2%80%A2+Builder;GDG+KJSSE+TechSprint+2026+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 
 <br/>
 
 <!-- Animated subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=888780&center=true&vCenter=true&width=600&height=30&lines=B.Tech+Computer+Engineering+%40+KJSSE+Mumbai+%E2%80%A2+SGPA+9.59;Full-stack+development+%E2%80%A2+AI+%2B+Quantum+Explorer;Open+to+opportunities+%E2%80%A2+Hackathons+%E2%80%A2+Real-world+projects" alt="Subtitle SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=888780&center=true&vCenter=true&width=600&height=30&lines=B.Tech+Computer+Engineering+%40+KJSSE+Mumbai+%E2%80%A2+SGPA+9.59;Full-stack+%E2%80%A2+AI+%2B+Quantum+%2B+Web3+Explorer;Open+to+opportunities+%E2%80%A2+Hackathons+%E2%80%A2+Real-world+projects" alt="Subtitle SVG" />
 
 <br/><br/>
 
@@ -22,9 +22,9 @@
 
 ## 👤 About me
 
-I’m a B.Tech Computer Engineering student at KJSSE, Mumbai (SGPA: 9.59), focused on building real-world full-stack applications.
+I'm a B.Tech Computer Engineering student at KJSSE, Mumbai (SGPA: 9.59), focused on building real-world full-stack applications with a touch of AI, Web3, and Quantum.
 
-I enjoy turning ideas into usable products, not just projects that sit on GitHub. Currently working with React, Node.js, and MongoDB, while exploring AI and Quantum Computing fundamentals.
+I enjoy turning ideas into usable products, not just projects that sit on GitHub. Currently working with React, Next.js, Node.js, and MongoDB, while exploring AI/ML and Quantum Computing fundamentals.
 
 🏆 **GDG KJSSE TechSprint 2026 Winner**  
 🚀 Hackathon enthusiast  
@@ -36,6 +36,7 @@ I enjoy turning ideas into usable products, not just projects that sit on GitHub
 
 - Practicing problem solving (LeetCode / Codeforces)  
 - Exploring AI + Quantum Computing  
+- Stepping in the world of Open Source
 
 ---
 
@@ -45,8 +46,9 @@ I enjoy turning ideas into usable products, not just projects that sit on GitHub
 
 | Project | Description | Stack | Links |
 |--------|------------|-------|------|
-| **Basic ChatBot** | Real-time chatbot with dynamic UI rendering and conversational flow handling | React, Vite | [Live](https://basic-chat-bot-nine.vercel.app) · [Repo](https://github.com/Asmit-64bit/Basic-ChatBot) |
-| **Pokédex** | Fast Pokémon explorer with live search and optimized API data fetching | React, Vite, PokéAPI | [Live](https://pokedex-jet-pi.vercel.app) · [Repo](https://github.com/Asmit-64bit/Pokedex) |
+| **LoreMint** | NFT analytics & AI storytelling platform — transforms on-chain metadata into immersive narratives with rarity scoring | React, Vite, Node.js, Express, Alchemy SDK, OpenAI, Gemini 2.5, Wagmi, RainbowKit | [Live](https://loremint-nft.vercel.app) · [Repo](https://github.com/Asmit-64bit/LoreMint) |
+| **Basic ChatBot** | Real-time chatbot with Gemini AI, markdown + math rendering and conversational flow handling | React, Vite, Gemini AI, react-markdown, KaTeX | [Live](https://basic-chat-bot-nine.vercel.app) · [Repo](https://github.com/Asmit-64bit/Basic-ChatBot) |
+| **Pokédex** | Fast Pokémon explorer with live search, smooth animations and optimized API data fetching | React, Vite, Axios, React Router, Framer Motion, PokéAPI | [Live](https://pokedex-jet-pi.vercel.app) · [Repo](https://github.com/Asmit-64bit/Pokedex) |
 
 </div>
 
@@ -54,10 +56,44 @@ I enjoy turning ideas into usable products, not just projects that sit on GitHub
 
 ## 🛠 Tech Stack
 
+### 🖥️ Frontend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,bootstrap,tailwind&theme=dark" />
+</div>
+
+### ⚙️ Backend & Databases
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,express&theme=dark" />
+</div>
+
+### 💻 Programming & DSA
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" />
+</div>
+
+### 🤖 AI / ML
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+</div>
+
+### ⚛️ Quantum
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,mongodb,python,cpp,java,html,css,figma&perline=6&theme=dark" />
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 
+</div>
+
+### ⛓️ Web3
+<div align="center">
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
+</div>
+
+### 🧰 Tools
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,arduino,docker&theme=dark" />
 </div>
 
 ---
