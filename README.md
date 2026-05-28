@@ -14,6 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://asmit-samanta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmit-samanta/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmit9324@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/asmitsamanta)
 [![Profile Views](https://komarev.com/ghpvc/?username=Asmit-64bit&label=Views&color=1adeff&style=for-the-badge)](https://github.com/Asmit-64bit)
 
 </div>
