@@ -47,6 +47,8 @@ I enjoy turning ideas into usable products, not just projects that sit on GitHub
 
 | Project | Description | Stack | Links |
 |--------|------------|-------|------|
+| **QStream** | Netflix-style streaming platform with multi-profile support, 150+ TMDB-seeded titles, personalized watchlists, a custom video player, real-time search, and a cinematic "Tudum" intro loader | React 19, Vite, Supabase, Node.js, Express, JWT, React Router v7, TMDB API | [Live](https://qstream.vercel.app) · [Repo](https://github.com/Asmit-64bit/Qstream) |
+| **Studionex** | All-in-one student productivity command center with task management, weekly timetable, syllabus & chapter tracking, Pomodoro timer with Picture-in-Picture mode, study material vault, and daily self-reflection journaling | Next.js 16, TypeScript, Supabase, NextAuth v5, Tailwind CSS v4 | [Repo](https://github.com/Asmit-64bit/Studionex) |
 | **LoreMint** | NFT analytics & AI storytelling platform — transforms on-chain metadata into immersive narratives with rarity scoring | React, Vite, Node.js, Express, Alchemy SDK, OpenAI, Gemini 2.5, Wagmi, RainbowKit | [Live](https://loremint-nft.vercel.app) · [Repo](https://github.com/Asmit-64bit/LoreMint) |
 | **Basic ChatBot** | Real-time chatbot with Gemini AI, markdown + math rendering and conversational flow handling | React, Vite, Gemini AI, react-markdown, KaTeX | [Live](https://basic-chat-bot-nine.vercel.app) · [Repo](https://github.com/Asmit-64bit/Basic-ChatBot) |
 | **Pokédex** | Fast Pokémon explorer with live search, smooth animations and optimized API data fetching | React, Vite, Axios, React Router, Framer Motion, PokéAPI | [Live](https://pokedex-jet-pi.vercel.app) · [Repo](https://github.com/Asmit-64bit/Pokedex) |
@@ -64,7 +66,7 @@ I enjoy turning ideas into usable products, not just projects that sit on GitHub
 
 ### ⚙️ Backend & Databases
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,supabase&theme=dark" />
 </div>
 
 ### 💻 Programming & DSA
@@ -78,6 +80,7 @@ I enjoy turning ideas into usable products, not just projects that sit on GitHub
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 </div>
 
 ### ⚛️ Quantum
