@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Animated subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=888780&center=true&vCenter=true&width=600&height=30&lines=B.Tech+Computer+Engineering+%40+KJSSE+Mumbai+%E2%80%A2+SGPA+9.59;Full-stack+%E2%80%A2+AI+%2B+Quantum+%2B+Web3+Explorer;Open+to+opportunities+%E2%80%A2+Hackathons+%E2%80%A2+Real-world+projects" alt="Subtitle SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=888780&center=true&vCenter=true&width=600&height=30&lines=B.Tech+Computer+Engineering+%40+KJSSE+Mumbai+%E2%80%A2+CGPA+9.57;Full-stack+%E2%80%A2+AI+%2B+Quantum+%2B+Web3+Explorer;Open+to+opportunities+%E2%80%A2+Hackathons+%E2%80%A2+Real-world+projects" alt="Subtitle SVG" />
 
 <br/><br/>
 
@@ -23,7 +23,7 @@
 
 ## 👤 About me
 
-I'm a B.Tech Computer Engineering student at KJSSE, Mumbai (SGPA: 9.59), focused on building real-world full-stack applications with a touch of AI, Web3, and Quantum.
+I'm a B.Tech Computer Engineering student at KJSSE, Mumbai (SGPA: 9.57), focused on building real-world full-stack applications with a touch of AI, Web3, and Quantum.
 
 I enjoy turning ideas into usable products, not just projects that sit on GitHub. Currently working with React, Next.js, Node.js, and MongoDB, while exploring AI/ML and Quantum Computing fundamentals.
 
