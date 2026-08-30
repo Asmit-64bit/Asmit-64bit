@@ -47,6 +47,7 @@ I enjoy turning ideas into usable products, not just projects that sit on GitHub
 
 | Project | Description | Stack | Links |
 |--------|------------|-------|------|
+| **Basement Nine** | A 3D Psychological Horror Coding Escape Room & Adaptive CS Learning Platform | React 19, Vite, Supabase, Node.js, Three.js, React-three-fiber, Three-rapier, Gemini api, PostgreSQL, Zustand, react-drei, Oxlint | [Live](https://basementnine.vercel.app) · [Repo](https://github.com/Asmit-64bit/BasementNine) |
 | **QStream** | Netflix-style streaming platform with multi-profile support, 150+ TMDB-seeded titles, personalized watchlists, a custom video player, real-time search, and a cinematic "Tudum" intro loader | React 19, Vite, Supabase, Node.js, Express, JWT, React Router v7, TMDB API | [Live](https://qstream.vercel.app) · [Repo](https://github.com/Asmit-64bit/Qstream) |
 | **Studionex** | All-in-one student productivity command center with task management, weekly timetable, syllabus & chapter tracking, Pomodoro timer with Picture-in-Picture mode, study material vault, and daily self-reflection journaling | Next.js 16, TypeScript, Supabase, NextAuth v5, Tailwind CSS v4 | [Repo](https://github.com/Asmit-64bit/Studionex) |
 | **LoreMint** | NFT analytics & AI storytelling platform — transforms on-chain metadata into immersive narratives with rarity scoring | React, Vite, Node.js, Express, Alchemy SDK, OpenAI, Gemini 2.5, Wagmi, RainbowKit | [Live](https://loremint-nft.vercel.app) · [Repo](https://github.com/Asmit-64bit/LoreMint) |
