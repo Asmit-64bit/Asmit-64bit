@@ -48,11 +48,8 @@ I enjoy turning ideas into usable products, not just projects that sit on GitHub
 | Project | Description | Stack | Links |
 |--------|------------|-------|------|
 | **Basement Nine** | A 3D Psychological Horror Coding Escape Room & Adaptive CS Learning Platform | React 19, Vite, Supabase, Node.js, Three.js, React-three-fiber, Three-rapier, Gemini api, PostgreSQL, Zustand, react-drei, Oxlint | [Live](https://basementnine.vercel.app) · [Repo](https://github.com/Asmit-64bit/BasementNine) |
-| **QStream** | Netflix-style streaming platform with multi-profile support, 150+ TMDB-seeded titles, personalized watchlists, a custom video player, real-time search, and a cinematic "Tudum" intro loader | React 19, Vite, Supabase, Node.js, Express, JWT, React Router v7, TMDB API | [Live](https://qstream.vercel.app) · [Repo](https://github.com/Asmit-64bit/Qstream) |
-| **Studionex** | All-in-one student productivity command center with task management, weekly timetable, syllabus & chapter tracking, Pomodoro timer with Picture-in-Picture mode, study material vault, and daily self-reflection journaling | Next.js 16, TypeScript, Supabase, NextAuth v5, Tailwind CSS v4 | [Repo](https://github.com/Asmit-64bit/Studionex) |
 | **LoreMint** | NFT analytics & AI storytelling platform — transforms on-chain metadata into immersive narratives with rarity scoring | React, Vite, Node.js, Express, Alchemy SDK, OpenAI, Gemini 2.5, Wagmi, RainbowKit | [Live](https://loremint-nft.vercel.app) · [Repo](https://github.com/Asmit-64bit/LoreMint) |
-| **Basic ChatBot** | Real-time chatbot with Gemini AI, markdown + math rendering and conversational flow handling | React, Vite, Gemini AI, react-markdown, KaTeX | [Live](https://basic-chat-bot-nine.vercel.app) · [Repo](https://github.com/Asmit-64bit/Basic-ChatBot) |
-| **Pokédex** | Fast Pokémon explorer with live search, smooth animations and optimized API data fetching | React, Vite, Axios, React Router, Framer Motion, PokéAPI | [Live](https://pokedex-jet-pi.vercel.app) · [Repo](https://github.com/Asmit-64bit/Pokedex) |
+| **SkyDome** | Skyblock-inspired productivity app that turns quests, habits, and focus sessions into progress on a growing voxel island | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Zustand, Three.js, Recharts | [Live](https://sky-dome.vercel.app/) · [Repo](https://github.com/Asmit-64bit/SkyDome) |
 
 </div>
 
