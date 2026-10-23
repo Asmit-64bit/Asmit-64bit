@@ -1,120 +1,76 @@
 <div align="center">
 
-<!-- Animated header SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=900&color=22C55E&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Asmit+Samanta+%F0%9F%91%8B;Full+Stack+Developer+%2B+Problem+Solver;AI/ML+and+Quantum+Explorer+%E2%80%A2+Builder;GDG+KJSSE+TechSprint+2026+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+<!-- Wave header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:ff6ec7&text=Asmit%20Samanta&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=%E3%82%A2%E3%82%B9%E3%83%9F%E3%83%83%E3%83%88%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20AI%20%2B%20Quantum%20Explorer&descAlignY=58&descSize=18&animation=twinkling" alt="header" />
 
-<br/>
-
-<!-- Animated subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=888780&center=true&vCenter=true&width=600&height=30&lines=B.Tech+Computer+Engineering+%40+KJSSE+Mumbai+%E2%80%A2+CGPA+9.57;Full-stack+%E2%80%A2+AI+%2B+Quantum+%2B+Web3+Explorer;Open+to+opportunities+%E2%80%A2+Hackathons+%E2%80%A2+Real-world+projects" alt="Subtitle SVG" />
-
-<br/><br/>
-
-<!-- Social badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://asmit-samanta.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white)](https://asmit-samanta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmit-samanta/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmit9324@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/asmitsamanta)
-[![Profile Views](https://komarev.com/ghpvc/?username=Asmit-64bit&label=Views&color=1adeff&style=for-the-badge)](https://github.com/Asmit-64bit)
+[![Profile Views](https://hits.sh/github.com/Asmit-64bit.svg?style=for-the-badge&label=Views&color=ff6ec7&labelColor=302b63)](https://github.com/Asmit-64bit)
 
 </div>
 
----
-
-## 👤 About me
-
-I'm a B.Tech Computer Engineering student at KJSSE, Mumbai (SGPA: 9.57), focused on building real-world full-stack applications with a touch of AI, Web3, and Quantum.
-
-I enjoy turning ideas into usable products, not just projects that sit on GitHub. Currently working with React, Next.js, Node.js, and MongoDB, while exploring AI/ML and Quantum Computing fundamentals.
-
-🏆 **GDG KJSSE TechSprint 2026 Winner**  
-🚀 Hackathon enthusiast  
-📚 Always learning, always building  
-
----
-
-## ⚡ Currently
-
-- Practicing problem solving (LeetCode / Codeforces)  
-- Exploring AI + Quantum Computing  
-- Stepping in the world of Open Source
-
----
-
-## 💡 Featured Projects
-
 <div align="center">
 
-| Project | Description | Stack | Links |
-|--------|------------|-------|------|
-| **Basement Nine** | A 3D Psychological Horror Coding Escape Room & Adaptive CS Learning Platform | React 19, Vite, Supabase, Node.js, Three.js, React-three-fiber, Three-rapier, Gemini api, PostgreSQL, Zustand, react-drei, Oxlint | [Live](https://basementnine.vercel.app) · [Repo](https://github.com/Asmit-64bit/BasementNine) |
-| **LoreMint** | NFT analytics & AI storytelling platform — transforms on-chain metadata into immersive narratives with rarity scoring | React, Vite, Node.js, Express, Alchemy SDK, OpenAI, Gemini 2.5, Wagmi, RainbowKit | [Live](https://loremint-nft.vercel.app) · [Repo](https://github.com/Asmit-64bit/LoreMint) |
-| **SkyDome** | Skyblock-inspired productivity app that turns quests, habits, and focus sessions into progress on a growing voxel island | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Zustand, Three.js, Recharts | [Live](https://sky-dome.vercel.app/) · [Repo](https://github.com/Asmit-64bit/SkyDome) |
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20PROJECTS%20%E2%9C%A6&fontColor=ff6ec7&fontSize=34&animation=fadeIn&fontAlignY=50" width="100%" alt="Projects" />
+
+<a href="https://basementnine.vercel.app">
+  <img src="./assets/project-basement-nine.svg" width="100%" alt="Basement Nine - 3D psychological horror coding game" />
+</a>
+<a href="https://loremint-nft.vercel.app">
+  <img src="./assets/project-loremint.svg" width="100%" alt="LoreMint - NFT rarity scores and AI-written lore" />
+</a>
+
+<a href="https://sky-dome.vercel.app/">
+  <img src="./assets/project-skydome.svg" width="100%" alt="SkyDome - habit tracker with a growing voxel sky island" />
+</a>
 
 </div>
 
----
-
-## 🛠 Tech Stack
-
-### 🖥️ Frontend
+<br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,bootstrap,tailwind&theme=dark" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20TECH%20STACK%20%E2%9C%A6&fontColor=a5b4fc&fontSize=34&animation=fadeIn&fontAlignY=50" width="100%" alt="Skill Tree" />
 
-### ⚙️ Backend & Databases
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,supabase&theme=dark" />
-</div>
 
-### 💻 Programming & DSA
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" />
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,bootstrap,tailwind,nodejs,mongodb,express,supabase,cpp,java,python,solidity,git,figma,vscode,arduino,docker&theme=dark&perline=11" />
 
-### 🤖 AI / ML
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</div>
-
-### ⚛️ Quantum
-<div align="center">
-
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-
 </div>
 
-### ⛓️ Web3
 <div align="center">
-<img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20GITHUB%20STATS%20%E2%9C%A6&fontColor=ff6ec7&fontSize=34&animation=fadeIn&fontAlignY=50" width="100%" alt="Power Level" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=ff6ec7&icon_color=a5b4fc&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-64bit&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=ff6ec7&text_color=ffffff" />
+
+<img src="https://streak-stats.demolab.com?user=Asmit-64bit&theme=radical&hide_border=true&background=0f0c29&ring=ff6ec7&fire=ff6ec7&currStreakLabel=a5b4fc" />
+
+<br/>
+
+![TechSprint](https://img.shields.io/badge/%F0%9F%8F%86_GDG_KJSSE_TechSprint_2026-WINNER-ff6ec7?style=for-the-badge&labelColor=302b63)
+![CGPA](https://img.shields.io/badge/%E2%9A%94%EF%B8%8F_CGPA-9.57-a5b4fc?style=for-the-badge&labelColor=302b63)
+![Hackathons](https://img.shields.io/badge/%F0%9F%9A%80_Hackathon-Enthusiast-ff9ec4?style=for-the-badge&labelColor=302b63)
 </div>
 
-### 🧰 Tools
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,arduino,docker&theme=dark" />
-</div>
-
----
-
-## 🏆 Competitive Programming
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20COMPETITIVE%20PROGRAMMING%20%E2%9C%A6&fontColor=ff6ec7&fontSize=34&animation=fadeIn&fontAlignY=50" width="100%" alt="The Arena" />
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Asmit__S-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Asmit_S)
 [![CodeChef](https://img.shields.io/badge/CodeChef-asmit__xo7-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/asmit_xo7)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Asmit__s07-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Asmit_s07)
 
-</div>
+<br/>
 
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0f0c29&border_color=302b63&quote_color=ffffff&author_color=ff6ec7" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=888780&center=true&vCenter=true&width=500&height=30&lines=Build+fast.+Learn+faster." />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff6ec7,50:302b63,100:0f0c29&section=footer&animation=twinkling" alt="footer" />
 </div>
