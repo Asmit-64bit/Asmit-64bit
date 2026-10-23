@@ -13,9 +13,22 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20About%20Me%20%E2%9C%A6&fontColor=ff6ec7&fontSize=34&animation=fadeIn&fontAlignY=50" width="100%" alt="About Me" />
+
+<p align="center">
+  Hey there! I'm a <b>B.Tech Computer Engineering student at KJSSE, Mumbai</b> (CGPA: <b>9.57</b>).<br/>
+  I love turning ambitious ideas into usable, production-ready software  exploring <b>Full Stack Development</b>, <b>AI/ML</b>, <b>3D Web</b>, and <b>Quantum Computing</b>. Always building fast and leveling up every day!
+</p>
+
+![TechSprint](https://img.shields.io/badge/%F0%9F%8F%86_GDG_KJSSE_TechSprint_2026-WINNER-ff6ec7?style=for-the-badge&labelColor=302b63)
+![CGPA](https://img.shields.io/badge/%E2%9A%94%EF%B8%8F_CGPA-9.57-a5b4fc?style=for-the-badge&labelColor=302b63)
+![Hackathons](https://img.shields.io/badge/%F0%9F%9A%80_Hackathon-Enthusiast-ff9ec4?style=for-the-badge&labelColor=302b63)
+
+</div>
+
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20PROJECTS%20%E2%9C%A6&fontColor=ff6ec7&fontSize=34&animation=fadeIn&fontAlignY=50" width="100%" alt="Projects" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20Projects%20%E2%9C%A6&fontColor=ff6ec7&fontSize=34&animation=fadeIn&fontAlignY=50" width="100%" alt="Projects" />
 
 <a href="https://basementnine.vercel.app">
   <img src="./assets/project-basement-nine.svg" width="100%" alt="Basement Nine - 3D psychological horror coding game" />
@@ -32,7 +45,7 @@
 
 <br>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20TECH%20STACK%20%E2%9C%A6&fontColor=a5b4fc&fontSize=34&animation=fadeIn&fontAlignY=50" width="100%" alt="Skill Tree" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20Tech%20Stack%20%E2%9C%A6&fontColor=a5b4fc&fontSize=34&animation=fadeIn&fontAlignY=50" width="100%" alt="Skill Tree" />
 
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,bootstrap,tailwind,nodejs,mongodb,express,supabase,cpp,java,python,solidity,git,figma,vscode,arduino,docker&theme=dark&perline=11" />
@@ -47,7 +60,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20GITHUB%20STATS%20%E2%9C%A6&fontColor=ff6ec7&fontSize=34&animation=fadeIn&fontAlignY=50" width="100%" alt="Power Level" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20Github%20Stats%20%E2%9C%A6&fontColor=ff6ec7&fontSize=34&animation=fadeIn&fontAlignY=50" width="100%" alt="Power Level" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Asmit-64bit&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=ff6ec7&icon_color=a5b4fc&text_color=ffffff" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-64bit&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=ff6ec7&text_color=ffffff" />
@@ -56,21 +69,16 @@
 
 <br/>
 
-![TechSprint](https://img.shields.io/badge/%F0%9F%8F%86_GDG_KJSSE_TechSprint_2026-WINNER-ff6ec7?style=for-the-badge&labelColor=302b63)
-![CGPA](https://img.shields.io/badge/%E2%9A%94%EF%B8%8F_CGPA-9.57-a5b4fc?style=for-the-badge&labelColor=302b63)
-![Hackathons](https://img.shields.io/badge/%F0%9F%9A%80_Hackathon-Enthusiast-ff9ec4?style=for-the-badge&labelColor=302b63)
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20COMPETITIVE%20PROGRAMMING%20%E2%9C%A6&fontColor=ff6ec7&fontSize=34&animation=fadeIn&fontAlignY=50" width="100%" alt="The Arena" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20Competitive%20Programming%20%E2%9C%A6&fontColor=ff6ec7&fontSize=34&animation=fadeIn&fontAlignY=50" width="100%" alt="The Arena" />
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Asmit__S-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Asmit_S)
 [![CodeChef](https://img.shields.io/badge/CodeChef-asmit__xo7-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/asmit_xo7)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Asmit__s07-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Asmit_s07)
 
-<br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0f0c29&border_color=302b63&quote_color=ffffff&author_color=ff6ec7" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff6ec7,50:302b63,100:0f0c29&section=footer&animation=twinkling" alt="footer" />
 </div>
