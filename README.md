@@ -19,7 +19,7 @@ My projects combine full stack development with 3D experiences, AI, and a little
 ## About me
 
 - **Education:** B.Tech in Computer Engineering at KJSSE, Mumbai · **CGPA: 9.57**
-- **Achievement:** Winner, GDG KJSSE TechSprint 2026
+- **Achievement:** Winner: GDG KJSSE TechSprint 2026, Runner-up: MLH Gemini Hackdays
 - **Interests:** Full stack development, AI/ML, 3D web, and quantum computing
 - **What I enjoy:** Building interactive software, solving problems, and taking on hackathon challenges
 
